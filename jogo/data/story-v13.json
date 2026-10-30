@@ -1,0 +1,839 @@
+{
+  "captions": [
+    {
+      "id": "line-0",
+      "start": 1.5,
+      "end": 3.84,
+      "actor": "doctor",
+      "text": "Ora, Capitão…"
+    },
+    {
+      "id": "line-1",
+      "start": 4.38,
+      "end": 5.16,
+      "actor": "doctor",
+      "text": "Pode correr!",
+      "wordTimes": [
+        {
+          "start": 4.38,
+          "end": 4.8
+        },
+        {
+          "start": 4.8,
+          "end": 5.16
+        }
+      ]
+    },
+    {
+      "id": "line-2",
+      "start": 5.9,
+      "end": 9.06,
+      "actor": "doctor",
+      "text": "Eu já calculei o final!"
+    },
+    {
+      "id": "line-3",
+      "start": 16.36,
+      "end": 18.04,
+      "actor": "doctor",
+      "text": "Minha nave está brilhando,",
+      "wordTimes": [
+        {
+          "start": 16.36,
+          "end": 17
+        },
+        {
+          "start": 17,
+          "end": 17.32
+        },
+        {
+          "start": 17.32,
+          "end": 17.52
+        },
+        {
+          "start": 17.52,
+          "end": 18.04
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "start": 18.2,
+      "end": 19.42,
+      "actor": "doctor",
+      "text": "Cada curva é genial!",
+      "wordTimes": [
+        {
+          "start": 18.2,
+          "end": 18.34
+        },
+        {
+          "start": 18.34,
+          "end": 18.76
+        },
+        {
+          "start": 18.76,
+          "end": 18.9
+        },
+        {
+          "start": 18.9,
+          "end": 19.42
+        }
+      ]
+    },
+    {
+      "id": "line-5",
+      "start": 19.64,
+      "end": 20.98,
+      "actor": "doctor",
+      "text": "Cada peça, cada ponte,",
+      "wordTimes": [
+        {
+          "start": 19.64,
+          "end": 19.78
+        },
+        {
+          "start": 19.78,
+          "end": 20.28
+        },
+        {
+          "start": 20.4,
+          "end": 20.5
+        },
+        {
+          "start": 20.5,
+          "end": 20.98
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "start": 21.08,
+      "end": 22.3,
+      "actor": "doctor",
+      "text": "Tudo segue o meu sinal!",
+      "wordTimes": [
+        {
+          "start": 21.08,
+          "end": 21.22
+        },
+        {
+          "start": 21.22,
+          "end": 21.62
+        },
+        {
+          "start": 21.62,
+          "end": 21.8
+        },
+        {
+          "start": 21.8,
+          "end": 21.9
+        },
+        {
+          "start": 21.9,
+          "end": 22.3
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "start": 22.56,
+      "end": 23.8,
+      "actor": "doctor",
+      "text": "Uma onda pelo chão,",
+      "wordTimes": [
+        {
+          "start": 22.56,
+          "end": 22.78
+        },
+        {
+          "start": 22.78,
+          "end": 23.14
+        },
+        {
+          "start": 23.14,
+          "end": 23.38
+        },
+        {
+          "start": 23.38,
+          "end": 23.8
+        }
+      ]
+    },
+    {
+      "id": "line-8",
+      "start": 24.06,
+      "end": 25.22,
+      "actor": "doctor",
+      "text": "Outra passa pelo ar…",
+      "wordTimes": [
+        {
+          "start": 24.06,
+          "end": 24.2
+        },
+        {
+          "start": 24.2,
+          "end": 24.6
+        },
+        {
+          "start": 24.6,
+          "end": 24.9
+        },
+        {
+          "start": 24.9,
+          "end": 25.22
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "start": 25.46,
+      "end": 26.1,
+      "actor": "doctor",
+      "text": "Você pula?",
+      "wordTimes": [
+        {
+          "start": 25.46,
+          "end": 25.66
+        },
+        {
+          "start": 25.66,
+          "end": 26.1
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "start": 26.34,
+      "end": 26.9,
+      "actor": "doctor",
+      "text": "Você baixa?",
+      "wordTimes": [
+        {
+          "start": 26.34,
+          "end": 26.48
+        },
+        {
+          "start": 26.48,
+          "end": 26.9
+        }
+      ]
+    },
+    {
+      "id": "line-11",
+      "start": 26.9,
+      "end": 28.94,
+      "actor": "doctor",
+      "text": "Quero ver por onde vai passar!",
+      "wordTimes": [
+        {
+          "start": 26.9,
+          "end": 27.24
+        },
+        {
+          "start": 27.24,
+          "end": 27.44
+        },
+        {
+          "start": 27.44,
+          "end": 27.7
+        },
+        {
+          "start": 27.7,
+          "end": 27.94
+        },
+        {
+          "start": 27.94,
+          "end": 28.3
+        },
+        {
+          "start": 28.3,
+          "end": 28.94
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "start": 33.4,
+      "end": 35.08,
+      "actor": "doctor",
+      "text": "Tudo, tudo calculado!",
+      "wordTimes": [
+        {
+          "start": 33.400000000000006,
+          "end": 33.96
+        },
+        {
+          "start": 34.14,
+          "end": 34.28
+        },
+        {
+          "start": 34.28,
+          "end": 35.08
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "start": 35.24,
+      "end": 36.36,
+      "actor": "choir",
+      "text": "Calculado, sim senhor!",
+      "wordTimes": [
+        {
+          "start": 35.24,
+          "end": 35.8
+        },
+        {
+          "start": 35.88,
+          "end": 36.02
+        },
+        {
+          "start": 36.16,
+          "end": 36.36
+        }
+      ]
+    },
+    {
+      "id": "line-14",
+      "start": 36.64,
+      "end": 37.9,
+      "actor": "doctor",
+      "text": "Meu projeto é infalível!",
+      "wordTimes": [
+        {
+          "start": 36.64,
+          "end": 36.78
+        },
+        {
+          "start": 36.78,
+          "end": 37.12
+        },
+        {
+          "start": 37.12,
+          "end": 37.4
+        },
+        {
+          "start": 37.4,
+          "end": 37.9
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "start": 38.06,
+      "end": 39.36,
+      "actor": "choir",
+      "text": "Ih… alguma coisa falhou!"
+    },
+    {
+      "id": "line-16",
+      "start": 39.56,
+      "end": 40.86,
+      "actor": "doctor",
+      "text": "Minha máquina é perfeita!",
+      "wordTimes": [
+        {
+          "start": 39.56,
+          "end": 39.84
+        },
+        {
+          "start": 39.84,
+          "end": 40.18
+        },
+        {
+          "start": 40.18,
+          "end": 40.5
+        },
+        {
+          "start": 40.5,
+          "end": 40.86
+        }
+      ]
+    },
+    {
+      "id": "line-17",
+      "start": 41.04,
+      "end": 42.22,
+      "actor": "choir",
+      "text": "Perfeitinha, que esplendor!"
+    },
+    {
+      "id": "line-18",
+      "start": 42.36,
+      "end": 43.68,
+      "actor": "doctor",
+      "text": "Mas quem foi que abriu o portal?!",
+      "wordTimes": [
+        {
+          "start": 42.36,
+          "end": 42.44
+        },
+        {
+          "start": 42.44,
+          "end": 42.58
+        },
+        {
+          "start": 42.58,
+          "end": 42.76
+        },
+        {
+          "start": 42.76,
+          "end": 42.9
+        },
+        {
+          "start": 42.9,
+          "end": 43.28
+        },
+        {
+          "start": 43.28,
+          "end": 43.38
+        },
+        {
+          "start": 43.38,
+          "end": 43.68
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "start": 43.94,
+      "end": 45.2,
+      "actor": "choir",
+      "text": "Essa o senhor não calculou!"
+    },
+    {
+      "id": "line-20",
+      "start": 46.2,
+      "end": 47.1,
+      "actor": "doctor",
+      "text": "Braço acima!"
+    },
+    {
+      "id": "line-21",
+      "start": 47.2,
+      "end": 47.78,
+      "actor": "doctor",
+      "text": "Ponte abaixo!"
+    },
+    {
+      "id": "line-22",
+      "start": 47.98,
+      "end": 48.98,
+      "actor": "doctor",
+      "text": "Sentinelas, atenção!",
+      "wordTimes": [
+        {
+          "start": 47.98,
+          "end": 48.54
+        },
+        {
+          "start": 48.7,
+          "end": 48.98
+        }
+      ]
+    },
+    {
+      "id": "line-23",
+      "start": 49.38,
+      "end": 50.84,
+      "actor": "doctor",
+      "text": "Fechem logo essa passagem!"
+    },
+    {
+      "id": "line-24",
+      "start": 50.84,
+      "end": 53.68,
+      "actor": "doctor",
+      "text": "Um disparo?! Que atrevido!",
+      "wordTimes": [
+        {
+          "start": 50.84,
+          "end": 51.58
+        },
+        {
+          "start": 51.58,
+          "end": 53
+        },
+        {
+          "start": 53,
+          "end": 53.1
+        },
+        {
+          "start": 53.1,
+          "end": 53.68
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "start": 53.68,
+      "end": 55.1,
+      "actor": "doctor",
+      "text": "Esse prisma se moveu!"
+    },
+    {
+      "id": "line-26",
+      "start": 55.16,
+      "end": 56.84,
+      "actor": "doctor",
+      "text": "Eu previ todos os passos…",
+      "wordTimes": [
+        {
+          "start": 55.16,
+          "end": 55.36
+        },
+        {
+          "start": 55.36,
+          "end": 55.72
+        },
+        {
+          "start": 55.72,
+          "end": 56
+        },
+        {
+          "start": 56,
+          "end": 56.3
+        },
+        {
+          "start": 56.3,
+          "end": 56.84
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "start": 56.86,
+      "end": 59.26,
+      "actor": "doctor",
+      "text": "Esse passo não foi meu!",
+      "wordTimes": [
+        {
+          "start": 56.86,
+          "end": 57.04
+        },
+        {
+          "start": 57.04,
+          "end": 57.7
+        },
+        {
+          "start": 57.7,
+          "end": 57.94
+        },
+        {
+          "start": 57.94,
+          "end": 58.22
+        },
+        {
+          "start": 58.22,
+          "end": 59.26
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "start": 61.82,
+      "end": 62.94,
+      "actor": "choir",
+      "text": "Recalculando, doutor!",
+      "wordTimes": [
+        {
+          "start": 61.81999999999999,
+          "end": 62.379999999999995
+        },
+        {
+          "start": 62.379999999999995,
+          "end": 62.94
+        }
+      ]
+    },
+    {
+      "id": "line-29",
+      "start": 64.26,
+      "end": 66.04,
+      "actor": "choir",
+      "text": "Recalculando, doutor!",
+      "wordTimes": [
+        {
+          "start": 64.26,
+          "end": 64.82
+        },
+        {
+          "start": 65.02,
+          "end": 66.04
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "start": 67,
+      "end": 68.34,
+      "actor": "doctor",
+      "text": "Calma, calma! Eu recalculo!",
+      "wordTimes": [
+        {
+          "start": 67,
+          "end": 67.32
+        },
+        {
+          "start": 67.48,
+          "end": 67.7
+        },
+        {
+          "start": 67.8,
+          "end": 67.82
+        },
+        {
+          "start": 67.82,
+          "end": 68.34
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "start": 68.62,
+      "end": 69.8,
+      "actor": "doctor",
+      "text": "Tenho a solução na mão!"
+    },
+    {
+      "id": "line-32",
+      "start": 69.98,
+      "end": 71.46,
+      "actor": "doctor",
+      "text": "Só não toque nessa chave…",
+      "wordTimes": [
+        {
+          "start": 69.98,
+          "end": 70.16
+        },
+        {
+          "start": 70.16,
+          "end": 70.34
+        },
+        {
+          "start": 70.34,
+          "end": 70.78
+        },
+        {
+          "start": 70.78,
+          "end": 71.04
+        },
+        {
+          "start": 71.04,
+          "end": 71.46
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "start": 71.58,
+      "end": 74.1,
+      "actor": "doctor",
+      "text": "Nem pense nesse botão!",
+      "wordTimes": [
+        {
+          "start": 71.58,
+          "end": 71.78
+        },
+        {
+          "start": 71.78,
+          "end": 72.28
+        },
+        {
+          "start": 72.28,
+          "end": 72.76
+        },
+        {
+          "start": 72.76,
+          "end": 74.1
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "start": 75.82,
+      "end": 77.84,
+      "actor": "doctor",
+      "text": "Tudo, tudo calculado!",
+      "wordTimes": [
+        {
+          "start": 75.82000000000001,
+          "end": 76.7
+        },
+        {
+          "start": 76.86,
+          "end": 77.06
+        },
+        {
+          "start": 77.06,
+          "end": 77.84
+        }
+      ]
+    },
+    {
+      "id": "line-35",
+      "start": 77.9,
+      "end": 79.24,
+      "actor": "choir",
+      "text": "Calculado, sim senhor!",
+      "wordTimes": [
+        {
+          "start": 77.9,
+          "end": 78.58
+        },
+        {
+          "start": 78.66,
+          "end": 78.84
+        },
+        {
+          "start": 78.94,
+          "end": 79.24
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "start": 79.46,
+      "end": 80.8,
+      "actor": "doctor",
+      "text": "Não existe outra saída!",
+      "wordTimes": [
+        {
+          "start": 79.46,
+          "end": 79.62
+        },
+        {
+          "start": 79.62,
+          "end": 79.96
+        },
+        {
+          "start": 79.96,
+          "end": 80.26
+        },
+        {
+          "start": 80.26,
+          "end": 80.8
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "start": 81.04,
+      "end": 82.28,
+      "actor": "choir",
+      "text": "Opa… outra se formou!",
+      "wordTimes": [
+        {
+          "start": 81.04,
+          "end": 81.28
+        },
+        {
+          "start": 81.38,
+          "end": 81.62
+        },
+        {
+          "start": 81.62,
+          "end": 81.84
+        },
+        {
+          "start": 81.84,
+          "end": 82.28
+        }
+      ]
+    },
+    {
+      "id": "line-38",
+      "start": 83.94,
+      "end": 87.44,
+      "actor": "hero",
+      "text": "E se existir outra possibilidade?",
+      "wordTimes": [
+        {
+          "start": 83.94,
+          "end": 84.3
+        },
+        {
+          "start": 84.3,
+          "end": 84.38
+        },
+        {
+          "start": 84.38,
+          "end": 84.96
+        },
+        {
+          "start": 84.96,
+          "end": 86.28
+        },
+        {
+          "start": 86.28,
+          "end": 87.44
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "start": 89.76,
+      "end": 90.64,
+      "actor": "doctor",
+      "text": "Impossível!",
+      "wordTimes": [
+        {
+          "start": 89.76,
+          "end": 90.64
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "start": 91.22,
+      "end": 94.84,
+      "actor": "doctor",
+      "text": "Meus cálculos nunca estão errados!",
+      "wordTimes": [
+        {
+          "start": 91.22,
+          "end": 91.66
+        },
+        {
+          "start": 91.66,
+          "end": 92.4
+        },
+        {
+          "start": 92.4,
+          "end": 93.36
+        },
+        {
+          "start": 93.36,
+          "end": 94
+        },
+        {
+          "start": 94,
+          "end": 94.84
+        }
+      ]
+    },
+    {
+      "id": "line-41",
+      "start": 96.16,
+      "end": 97.76,
+      "actor": "choir",
+      "text": "Recalculando, doutor!",
+      "wordTimes": [
+        {
+          "start": 96.16,
+          "end": 97.04
+        },
+        {
+          "start": 97.24,
+          "end": 97.76
+        }
+      ]
+    }
+  ],
+  "audit": {
+    "source": "Authored lyric v02 with local ASR line ranges; exact matching words use saved ASR timing. Voice animation and captions share this timeline, including silence. Original audio unchanged.",
+    "auditoryVerification": false,
+    "wordAlignment": "Provisional ASR for exact text matches only; remaining lines use proportional highlighting."
+  }
+}

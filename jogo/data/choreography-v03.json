@@ -1,0 +1,226 @@
+{
+  "phrases": [
+    {
+      "id": "doctor-intro",
+      "start": 0.3,
+      "end": 8.5,
+      "actor": "doctor",
+      "gesture": 0.55
+    },
+    {
+      "id": "doctor-tools",
+      "start": 16.36,
+      "end": 29,
+      "actor": "doctor",
+      "gesture": 0.85
+    },
+    {
+      "id": "doctor-verse2",
+      "start": 45.38,
+      "end": 58.3,
+      "actor": "doctor",
+      "gesture": 0.9
+    },
+    {
+      "id": "doctor-recalculating",
+      "start": 62.01,
+      "end": 74,
+      "actor": "doctor",
+      "gesture": 0.7
+    },
+    {
+      "id": "hero-response",
+      "start": 83.94,
+      "end": 88.5,
+      "actor": "hero",
+      "gesture": 0.5
+    },
+    {
+      "id": "doctor-protest",
+      "start": 89.51,
+      "end": 94.7,
+      "actor": "doctor",
+      "gesture": 1
+    }
+  ],
+  "accents": [
+    {
+      "id": "accent-0",
+      "at": 9.3,
+      "strength": 0.9
+    },
+    {
+      "id": "accent-1",
+      "at": 16.36,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-2",
+      "at": 22.53,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-3",
+      "at": 25.46,
+      "strength": 0.9
+    },
+    {
+      "id": "accent-4",
+      "at": 27.1,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-5",
+      "at": 30.99,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-6",
+      "at": 33.02,
+      "strength": 0.9
+    },
+    {
+      "id": "accent-7",
+      "at": 38.63,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-8",
+      "at": 41.8,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-9",
+      "at": 46.12,
+      "strength": 0.9
+    },
+    {
+      "id": "accent-10",
+      "at": 47.94,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-11",
+      "at": 50.12,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-12",
+      "at": 52.39,
+      "strength": 0.9
+    },
+    {
+      "id": "accent-13",
+      "at": 54.09,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-14",
+      "at": 55.59,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-15",
+      "at": 59.88,
+      "strength": 0.9
+    },
+    {
+      "id": "accent-16",
+      "at": 62.01,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-17",
+      "at": 64.84,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-18",
+      "at": 68.61,
+      "strength": 0.9
+    },
+    {
+      "id": "accent-19",
+      "at": 71.95,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-20",
+      "at": 73.42,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-21",
+      "at": 76.28,
+      "strength": 0.9
+    },
+    {
+      "id": "accent-22",
+      "at": 77.93,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-23",
+      "at": 80.96,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-24",
+      "at": 84.01,
+      "strength": 0.9
+    },
+    {
+      "id": "accent-25",
+      "at": 89.51,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-26",
+      "at": 92.09,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-27",
+      "at": 95.44,
+      "strength": 0.9
+    },
+    {
+      "id": "accent-28",
+      "at": 98.11,
+      "strength": 0.55
+    },
+    {
+      "id": "accent-29",
+      "at": 101.04,
+      "strength": 0.55
+    }
+  ],
+  "choir": [
+    {
+      "id": "choir-first",
+      "start": 33.02,
+      "end": 38.3
+    },
+    {
+      "id": "choir-recalculate",
+      "start": 60.25,
+      "end": 62.2
+    },
+    {
+      "id": "choir-last-chase",
+      "start": 76.28,
+      "end": 83.23
+    },
+    {
+      "id": "choir-finale",
+      "start": 95.44,
+      "end": 99.6
+    }
+  ],
+  "audit": {
+    "source": "Saved automatic transcript and transient candidates v01; stage contacts preserved except two added learned-action encounters.",
+    "auditoryVerification": false,
+    "phonemeSync": false,
+    "note": "Phrase/actor attribution and fine musical accents remain provisional for author listening. No global BPM grid or audio edit."
+  }
+}

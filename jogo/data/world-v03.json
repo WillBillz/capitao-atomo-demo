@@ -1,0 +1,851 @@
+{
+  "frames": {
+    "farIsland": {
+      "image": "garden-parts-v04",
+      "x": 1175,
+      "y": 430,
+      "w": 420,
+      "h": 488,
+      "displayW": 230,
+      "displayH": 267,
+      "pivotX": 210,
+      "pivotY": 244
+    },
+    "nearIsland": {
+      "image": "garden-parts-v04",
+      "x": 1175,
+      "y": 430,
+      "w": 420,
+      "h": 488,
+      "displayW": 230,
+      "displayH": 267,
+      "pivotX": 210,
+      "pivotY": 244
+    },
+    "floor": {
+      "image": "garden-parts-v04",
+      "x": 18,
+      "y": 90,
+      "w": 515,
+      "h": 340,
+      "displayW": 400,
+      "displayH": 264,
+      "pivotX": 0,
+      "pivotY": 14
+    },
+    "crystal": {
+      "image": "garden-parts-v04",
+      "x": 80,
+      "y": 448,
+      "w": 460,
+      "h": 435,
+      "displayW": 112,
+      "displayH": 106,
+      "pivotX": 230,
+      "pivotY": 435
+    },
+    "arch": {
+      "image": "world-parts-v03",
+      "x": 510,
+      "y": 496,
+      "w": 530,
+      "h": 516,
+      "pivotX": 265,
+      "pivotY": 258,
+      "displayW": 530,
+      "displayH": 516
+    },
+    "plant": {
+      "image": "garden-parts-v04",
+      "x": 590,
+      "y": 479,
+      "w": 490,
+      "h": 405,
+      "displayW": 140,
+      "displayH": 116,
+      "pivotX": 245,
+      "pivotY": 405
+    },
+    "floorB": {
+      "image": "garden-parts-v04",
+      "x": 572,
+      "y": 90,
+      "w": 528,
+      "h": 340,
+      "displayW": 400,
+      "displayH": 258,
+      "pivotX": 0,
+      "pivotY": 14
+    },
+    "floorC": {
+      "image": "garden-parts-v04",
+      "x": 1138,
+      "y": 90,
+      "w": 515,
+      "h": 340,
+      "displayW": 400,
+      "displayH": 264,
+      "pivotX": 0,
+      "pivotY": 14
+    }
+  },
+  "regions": [
+    {
+      "id": "possibilidades",
+      "start": 0,
+      "end": 31,
+      "palette": {
+        "top": "#344561",
+        "middle": "#8d91aa",
+        "bottom": "#45687a",
+        "light": "#9fe8ed"
+      }
+    },
+    {
+      "id": "jardim",
+      "start": 31,
+      "end": 60,
+      "palette": {
+        "top": "#7688a6",
+        "middle": "#d9bba9",
+        "bottom": "#637e8b",
+        "light": "#ffe2a0"
+      }
+    },
+    {
+      "id": "nucleo",
+      "start": 60,
+      "end": 103.2,
+      "palette": {
+        "top": "#303b62",
+        "middle": "#94849f",
+        "bottom": "#455b7c",
+        "light": "#d9c5ff"
+      }
+    }
+  ],
+  "modules": [],
+  "decorations": [
+    {
+      "id": "crystal-0",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 150,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-0",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 450,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-1",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 830,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-2",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 1510,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-2",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 1810,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-3",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 2190,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-4",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 2870,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-4",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 3170,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-5",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 3550,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-6",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 4230,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-6",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 4530,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-7",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 4910,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-8",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 5590,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-8",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 5890,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-9",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 6270,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-10",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 6950,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-10",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 7250,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-11",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 7630,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-12",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 8310,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-12",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 8610,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-13",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 8990,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-14",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 9670,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-14",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 9970,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-15",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 10350,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-16",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 11030,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-16",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 11330,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-17",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 11710,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-18",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 12390,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-18",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 12690,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-19",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 13070,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-20",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 13750,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-20",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 14050,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-21",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 14430,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-22",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 15110,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-22",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 15410,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-23",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 15790,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-24",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 16470,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-24",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 16770,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-25",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 17150,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-26",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 17830,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-26",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 18130,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-27",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 18510,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-28",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 19190,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-28",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 19490,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-29",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 19870,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-30",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 20550,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-30",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 20850,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-31",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 21230,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-32",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 21910,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-32",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 22210,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-33",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 22590,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-34",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 23270,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-34",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 23570,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-35",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 23950,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-36",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 24630,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-36",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 24930,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-37",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 25310,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-38",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 25990,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-38",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 26290,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-39",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 26670,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-40",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 27350,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-40",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 27650,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-41",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 28030,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-42",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 28710,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-42",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 29010,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-43",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 29390,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.6799999999999999,
+      "pass": "back"
+    },
+    {
+      "id": "crystal-44",
+      "kind": "crystal",
+      "frameId": "crystal",
+      "worldX": 30070,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.78,
+      "pass": "back"
+    },
+    {
+      "id": "foreground-44",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 30370,
+      "y": 752,
+      "depth": 1.15,
+      "scale": 0.9,
+      "pass": "front"
+    },
+    {
+      "id": "crystal-45",
+      "kind": "plant",
+      "frameId": "plant",
+      "worldX": 30750,
+      "y": 569,
+      "depth": 1,
+      "scale": 0.58,
+      "pass": "back"
+    }
+  ],
+  "gaps": [
+    {
+      "centerTime": 50.1,
+      "width": 88
+    },
+    {
+      "centerTime": 55.7,
+      "width": 462.00000000000006
+    }
+  ],
+  "budget": {
+    "maxObjects": 90,
+    "maxParticles": 36
+  },
+  "floorVariants": [
+    "floor",
+    "floorB",
+    "floorC"
+  ],
+  "backdrop": {
+    "image": "lab-certeza-v07",
+    "x": 0,
+    "y": 0,
+    "w": 2060,
+    "h": 763,
+    "displayW": 1950,
+    "displayH": 720,
+    "depth": 0.14,
+    "scroll": "mirror"
+  },
+  "setting": "laboratory"
+}

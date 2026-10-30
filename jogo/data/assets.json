@@ -1,0 +1,450 @@
+{
+  "version": "498d83e20f40e6cf",
+  "files": [
+    {
+      "path": "app.webmanifest",
+      "bytes": 313,
+      "sha256": "329e40f7f719da9e380180dee0b9d36778d5812988f8d4c7bd283232d12a4772"
+    },
+    {
+      "path": "assets/art/doctor-body-v03.webp",
+      "bytes": 193412,
+      "sha256": "203064cbbe07ebbd180755688c26e853b97400f1af7033b0732495fd9dbde64f"
+    },
+    {
+      "path": "assets/art/doctor-face-v03.webp",
+      "bytes": 153568,
+      "sha256": "e6e71d78512801cfeedca6d976747b284385c1a327057496c31b1f72a9051ea6"
+    },
+    {
+      "path": "assets/art/garden-depth-v04.webp",
+      "bytes": 339734,
+      "sha256": "bc024cda0b6a504141739750d39ec51ab19857c1f93153ee6f02b9fde27edff1"
+    },
+    {
+      "path": "assets/art/garden-parts-v04.webp",
+      "bytes": 452582,
+      "sha256": "a16d20c3dec4a0c75f311747d869ea58c1190e12802caa1da6f6272343825dc4"
+    },
+    {
+      "path": "assets/art/helpers-parts-v03.webp",
+      "bytes": 353078,
+      "sha256": "4b12a5e9d5aab743ef6bdc7cf7ec8661166cc70ec8ba2f2f242798b24e73d93e"
+    },
+    {
+      "path": "assets/art/hero-actions-v05.webp",
+      "bytes": 319208,
+      "sha256": "fcba2ebe4d4c4fd32e9a957d0efc72e16d2145c7b1ef8e9439d2738e62ecb0da"
+    },
+    {
+      "path": "assets/art/hero-arms-v03.webp",
+      "bytes": 182910,
+      "sha256": "02f03df4dedb6eb1009f33c7a298966e7ec4441a28052075e995ae3c29744b7e"
+    },
+    {
+      "path": "assets/art/hero-body-v03.webp",
+      "bytes": 225706,
+      "sha256": "08c7a8120769a566eaad6e857bf14d322377eef9ce559d61d92bc7096799338e"
+    },
+    {
+      "path": "assets/art/hero-legs-v03.webp",
+      "bytes": 163616,
+      "sha256": "43b186a87a50c7ca16b489d2da2ad57f8f1525b9c56404e5ea570526446b5a42"
+    },
+    {
+      "path": "assets/art/hero-limbs-v09.webp",
+      "bytes": 161744,
+      "sha256": "024fedee4151e27bb75f3da5e5acb213d07e00af0ee1555455af2a7faf6c0501"
+    },
+    {
+      "path": "assets/art/hero-run-v05.webp",
+      "bytes": 411192,
+      "sha256": "4a8d04be32e505260862f6ee061f95fa408bc33043c14c1141e182b7ec172c3b"
+    },
+    {
+      "path": "assets/art/hero-run-v07.webp",
+      "bytes": 368868,
+      "sha256": "c80cf861d7a2a26a52880ad69ebc00b3080828870d5a7b8adfde6ce04bf8f84a"
+    },
+    {
+      "path": "assets/art/hero-slide-v04.webp",
+      "bytes": 198596,
+      "sha256": "6c46f86aa8c8692be9bc8b964f5679f2063bd529ba25d6fe3c6bdc83652273b8"
+    },
+    {
+      "path": "assets/art/hero-slide-v05.webp",
+      "bytes": 181034,
+      "sha256": "627de7c89b4e98ca66595398308982b79cd03c3dc52964c8d07307bffaabbb27"
+    },
+    {
+      "path": "assets/art/hero-transitions-v07.webp",
+      "bytes": 278358,
+      "sha256": "6225cf0d2f080a9cb66a3042453f3a57834f61379fa38d92d1596b32738baf44"
+    },
+    {
+      "path": "assets/art/home-workstations-v25.webp",
+      "bytes": 521920,
+      "sha256": "b5b6a423932ba3dac6d7a99a0ecd158f6730fda4f1d7d5b762d89ec486523403"
+    },
+    {
+      "path": "assets/art/icon.svg",
+      "bytes": 426,
+      "sha256": "7e3ede3ed71c5a74a76d266af22365d29ba1557ed84f93f002888e3109eb7d8b"
+    },
+    {
+      "path": "assets/art/lab-atomo-v07.webp",
+      "bytes": 193076,
+      "sha256": "015c651c4f023fa082a46d55c2937c2ca1f3a48bfbd39e451fdcdf1d6d5c2f93"
+    },
+    {
+      "path": "assets/art/lab-certeza-v07.webp",
+      "bytes": 367888,
+      "sha256": "08df3c66eeaff6f9cdd486236860d1c9cc8670bb222d5630d70e3b988ec5c32f"
+    },
+    {
+      "path": "assets/art/lab-door-v23.webp",
+      "bytes": 553448,
+      "sha256": "9df9cd192d0e64c7e76a10ee4f14292fa56ec4ab422fe5a52a37464143f67fdf"
+    },
+    {
+      "path": "assets/art/mad-machine-v21.webp",
+      "bytes": 596704,
+      "sha256": "8520656ec5597c294e4afc15873133ad3463e03d58b96ac7f0a1cfa7a9a9c95d"
+    },
+    {
+      "path": "assets/art/menu-concept.webp",
+      "bytes": 377202,
+      "sha256": "a2d7ed7501ebb15f114fb0a5be2559e95e50b6d51d0c7d4df95e1440ed0cddbd"
+    },
+    {
+      "path": "assets/art/ship-parts-v03.webp",
+      "bytes": 233682,
+      "sha256": "6060bc07582a61d342e9bfc72f9563f2130a7eb6ab3d97013629bdbf43659031"
+    },
+    {
+      "path": "assets/art/world-parts-v03.webp",
+      "bytes": 503994,
+      "sha256": "5c1f159004aa774c0d47509a88273e38d59b9d5ead539269dded19645fad848a"
+    },
+    {
+      "path": "assets/audio/dr-certeza-intro-v01.mp3",
+      "bytes": 344109,
+      "sha256": "fc8fb888bc28f554a321305928f2b4d2a34847a55d3da934879dfd03e4271d03"
+    },
+    {
+      "path": "assets/audio/intro-trilha-v01.mp3",
+      "bytes": 258970,
+      "sha256": "2f4d376fc5c1eb4376b97e0453c50055e2a98ad92e001295be08869cd0c7c28c"
+    },
+    {
+      "path": "assets/audio/recalculando-doutor-v01.mp3",
+      "bytes": 2381336,
+      "sha256": "5b03aca5352106209d46aa3b81dc217bb09e7e8b68d94e0bc7ab6e7117aba2f7"
+    },
+    {
+      "path": "data/choreography-v03.json",
+      "bytes": 3900,
+      "sha256": "ee3585cc1af9532c79eeed155a43fa8caf3c514daaf93b48ea687b85059f2f22"
+    },
+    {
+      "path": "data/cues.json",
+      "bytes": 19240,
+      "sha256": "24a2b3e2679f1e88ca4cdbfcca4eee086e205cd44a7567e9d804653200c193e2"
+    },
+    {
+      "path": "data/rigs-v03.json",
+      "bytes": 418201,
+      "sha256": "9c05abaca53a96dd94c72ba3dc8778c0a4441a46d211482f413afc74d6fb0f25"
+    },
+    {
+      "path": "data/story-v13.json",
+      "bytes": 15515,
+      "sha256": "6a14dfcea74e4952c66ff40e4d5f8e90fdfd52b3811af32a353355cda08c80db"
+    },
+    {
+      "path": "data/world-v03.json",
+      "bytes": 16205,
+      "sha256": "2f1d6452634bcc82eeab2438473a0b38c3aa387fbe7546b841570ebadac028a0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5614,
+      "sha256": "7ba49352e50cad13ee463a3c0f8b3b1233b45033eefac97da48bb3e02ef8acbd"
+    },
+    {
+      "path": "src/animation.mjs",
+      "bytes": 556,
+      "sha256": "0aef0f767f5c7779328cd4486340676a90369f96c5952d6f2c9013591e3293d4"
+    },
+    {
+      "path": "src/app.mjs",
+      "bytes": 17115,
+      "sha256": "8165b8e1fba95524440056716e848fa002f98560459ef317c48cb714498f4bd3"
+    },
+    {
+      "path": "src/assets.mjs",
+      "bytes": 2469,
+      "sha256": "3f55930462338b0476d718b81366d4d9f6c3dc4f6bab4369428d1989f2e60ac8"
+    },
+    {
+      "path": "src/audio-transport.mjs",
+      "bytes": 1561,
+      "sha256": "a257f8d8ff17ebfb6f385fab8ef01cfa76db8b88f4f49cfa68be5d7da9372915"
+    },
+    {
+      "path": "src/cache-policy.mjs",
+      "bytes": 1338,
+      "sha256": "e27a374ecee93ef36df3f12821c0e346efcfffda93dd2af147e0049c6423e696"
+    },
+    {
+      "path": "src/calculation-screen.mjs",
+      "bytes": 4400,
+      "sha256": "4d3f8fdf67b2c6da3eadcd69502535c9161d54875ffd6e1dace35859643a39bc"
+    },
+    {
+      "path": "src/captain-conversation.mjs",
+      "bytes": 1475,
+      "sha256": "d50a0cc32653537406d2ed7a8756ed62afc22b301a37f64175a0baad52ecf17c"
+    },
+    {
+      "path": "src/choreography.mjs",
+      "bytes": 2138,
+      "sha256": "d7ce388c043448ba0678bdbc42bc6cd2c79a5531def6fc0cd6a4ec5068f41026"
+    },
+    {
+      "path": "src/doctor-acting.mjs",
+      "bytes": 3858,
+      "sha256": "8551367939b2c8408cfedfc1a79e6d8b76918fa112cabd25aac052c48c971c36"
+    },
+    {
+      "path": "src/doctor-teleport.mjs",
+      "bytes": 3086,
+      "sha256": "3219feed106d95a36e1491e02bb8f3962ce19d63d8c7ae13f3a12e18e2ea1802"
+    },
+    {
+      "path": "src/drawn-hero.mjs",
+      "bytes": 646,
+      "sha256": "f84a9cf7e3799b2cba828c0d1727c7f6d143d0f36ceaccd0373924bbd3cd708a"
+    },
+    {
+      "path": "src/ensemble.mjs",
+      "bytes": 9140,
+      "sha256": "e4b1e822b47ca2e0151e4237be0809c5964f0cdfc20cccfe06a56c9ce29cc2bd"
+    },
+    {
+      "path": "src/escort-machines.mjs",
+      "bytes": 4963,
+      "sha256": "81122c5eae9cc9505094170fa1f20d3a889d7ab42074aeefdaefa935fa556286"
+    },
+    {
+      "path": "src/finale.mjs",
+      "bytes": 3286,
+      "sha256": "2cb892d3be1189e7c4c5c41a11c004ebd9a87e72f37983824e7a412d90b5f5e6"
+    },
+    {
+      "path": "src/guidance.mjs",
+      "bytes": 3390,
+      "sha256": "22c3dbc9e2887834afe59a59c96809a2615f431f1fdcd0509ed60c8a309a827f"
+    },
+    {
+      "path": "src/helpers.mjs",
+      "bytes": 12069,
+      "sha256": "ba06bb57f5c3ecf49b2d93c9bb480c5474a68a5253595b2f46a68fc3ce9f60a5"
+    },
+    {
+      "path": "src/hero-airflow.mjs",
+      "bytes": 3468,
+      "sha256": "8830b2b566a214b1fa534f2b2fce67b283bbd7ca1bd4e3d119e4e698cedc4269"
+    },
+    {
+      "path": "src/hero-articulated.mjs",
+      "bytes": 11274,
+      "sha256": "86cfca77497eb531c8dac47c49db862ced893d5757285962cc2f009f6f7b587f"
+    },
+    {
+      "path": "src/hero-blend.mjs",
+      "bytes": 6346,
+      "sha256": "d8c239b56da6b7f92093082c9f3b1dce8664739ba9ea98a70394f91964f0b680"
+    },
+    {
+      "path": "src/hero-cape.mjs",
+      "bytes": 3161,
+      "sha256": "28701db73b6afcbae44b8f8f80fcfc004300a4cb43d4f7f6f5141b6530bc97f2"
+    },
+    {
+      "path": "src/home-experiments.mjs",
+      "bytes": 953,
+      "sha256": "87a563f1306b58b6d080249f69c90b994a62d81d84a2ca2b01b00112a39f42aa"
+    },
+    {
+      "path": "src/home-lab-scene.mjs",
+      "bytes": 4751,
+      "sha256": "9ce895aff2919f0d8d8ae2168560fb4de085edf98afbcd2f7bc21bc8bd64b52a"
+    },
+    {
+      "path": "src/home-laboratory.mjs",
+      "bytes": 5674,
+      "sha256": "b2ae1a992cd3c7ebba74719853611cb901e4bfe015688dc7a04eac20a953fa5d"
+    },
+    {
+      "path": "src/homecoming.mjs",
+      "bytes": 2690,
+      "sha256": "132e6ff7e3ff90c8eb56b5e3b290db92fa79b467fecc5442dac29c1f3dcf935d"
+    },
+    {
+      "path": "src/input.mjs",
+      "bytes": 2242,
+      "sha256": "ddb7a8e4f72d3ca17daf6d43dbc8d0f7b7c893cfc658d4c2b511f235bd55a33a"
+    },
+    {
+      "path": "src/introduction.mjs",
+      "bytes": 6156,
+      "sha256": "55a2e7f938a84512b8a20ccbde7c8df8d6c2550bc95183ba7bc3a4a26d8e00c4"
+    },
+    {
+      "path": "src/lab-door.mjs",
+      "bytes": 6140,
+      "sha256": "0f3e2780a0f6bcf75a914deb90b521e84b557a8571fadf221b61829ea5c81c94"
+    },
+    {
+      "path": "src/laboratory-life.mjs",
+      "bytes": 7026,
+      "sha256": "1ecf3a9f6e84e07ad5e86398301a18ff390a351a04a41f3a4aa58895dc605687"
+    },
+    {
+      "path": "src/laboratory.mjs",
+      "bytes": 5218,
+      "sha256": "78bc5b877ea082155c68659bcd20cf3ddf44bcd40c41347992b18bbde47d1bc1"
+    },
+    {
+      "path": "src/laser-barrage.mjs",
+      "bytes": 7205,
+      "sha256": "98f94de6dd12a680ab15c37bd09f0027745425834058a3fee252e12d63b87fbb"
+    },
+    {
+      "path": "src/limb-geometry.mjs",
+      "bytes": 1220,
+      "sha256": "538db15652e9aab3efc8d5b4d5dcba02d87814d97fab6c95e64240c1e824068c"
+    },
+    {
+      "path": "src/lumi-discovery.mjs",
+      "bytes": 5022,
+      "sha256": "3f5f88f4fec57681eaef5ec3403c7e24045a02908fa5a8a643bbb58568139766"
+    },
+    {
+      "path": "src/mad-machine.mjs",
+      "bytes": 3858,
+      "sha256": "6b6863331329e0db0254d0ba72095165fbfc117b516cee801703f0174c07ffaa"
+    },
+    {
+      "path": "src/motion.mjs",
+      "bytes": 6152,
+      "sha256": "292de6208f430bafcd5452ccde2c2326822e1756d6ba39db9c4fd8727a21b32e"
+    },
+    {
+      "path": "src/offline.mjs",
+      "bytes": 1426,
+      "sha256": "4d619d0dd8e3210287b0dd6669c27fda84187e9a3bbfc578242c03356e4a1f7f"
+    },
+    {
+      "path": "src/pace.mjs",
+      "bytes": 342,
+      "sha256": "cadeaa05407b3e051120b2d8698be119a1cd2587cdc43f70d968105e0aa04bbc"
+    },
+    {
+      "path": "src/portal-passage.mjs",
+      "bytes": 4903,
+      "sha256": "0480cc12f10f102eac8a2cdb8214ed55cbbe0868ec3782d42727f5d84b3d1415"
+    },
+    {
+      "path": "src/presentation.mjs",
+      "bytes": 1637,
+      "sha256": "a7042c16d806419a830d6f508303e0872fe20a31eadaa9f8e52a1d717c6fd21f"
+    },
+    {
+      "path": "src/product-manifest.mjs",
+      "bytes": 1617,
+      "sha256": "c42840bea7980bd6b8b98bffa086b92cbd8bcddc46e84c55989e72edc2039493"
+    },
+    {
+      "path": "src/quantum-world.mjs",
+      "bytes": 9765,
+      "sha256": "acf2deed88cbb01b148cd07b8bced79bd3d1f7da280f38d2d288593b677889f6"
+    },
+    {
+      "path": "src/renderer.mjs",
+      "bytes": 11405,
+      "sha256": "46ebc8e142662926d12841cce5451d8e53fe83527afc7acb657b394364babca6"
+    },
+    {
+      "path": "src/rig.mjs",
+      "bytes": 2886,
+      "sha256": "4d6bb1fda0dd17a284cddc1f869eb271d43e7748b0a713a37e64e9b3247594cc"
+    },
+    {
+      "path": "src/runner.mjs",
+      "bytes": 1359,
+      "sha256": "5acf1f4c462466bf07e4caeaaee68c00696d2be228f4bcfd50389627f50a6236"
+    },
+    {
+      "path": "src/scene-contact.mjs",
+      "bytes": 4259,
+      "sha256": "574acb9539d39e28afb61006a676b60f35379716a537d842dc8232e031c4bdc7"
+    },
+    {
+      "path": "src/scene-events.mjs",
+      "bytes": 285,
+      "sha256": "091cec3dc4590537e40a99004197f3d4ad579b4b05599873b7f66cfdbdc18f2c"
+    },
+    {
+      "path": "src/scene-sound.mjs",
+      "bytes": 9183,
+      "sha256": "f3971a098491ab505f62072b85e62a98023187b0e6ab268b530aee4f5700bbda"
+    },
+    {
+      "path": "src/settings.mjs",
+      "bytes": 887,
+      "sha256": "744c4a6d6c1598174b66723cac32e687843afd8913a2b75584d5cc0310080388"
+    },
+    {
+      "path": "src/shield-sequence.mjs",
+      "bytes": 574,
+      "sha256": "e7a03864df9e6d5fad9a5c049c76c96ce3a179a5966f198516154e4bd93f876c"
+    },
+    {
+      "path": "src/ship-crash.mjs",
+      "bytes": 4981,
+      "sha256": "131f8092265b837f4ae2710197f5218e45c545eaeb08875f0374073d4f674f4a"
+    },
+    {
+      "path": "src/simulation.mjs",
+      "bytes": 696,
+      "sha256": "67ade7a21e1b09a868e048c3af34f785987d0b2f91f2505837457198f2c93ff7"
+    },
+    {
+      "path": "src/stage-story.mjs",
+      "bytes": 7787,
+      "sha256": "01da0ac749bc3476e7178c496295a55d5a14abdc74aedbdd2d755b7078c72984"
+    },
+    {
+      "path": "src/stage.mjs",
+      "bytes": 11282,
+      "sha256": "974bc4890b502dff812b39b4b3e5800cfa292d9aaf6746035da50a998c8edef9"
+    },
+    {
+      "path": "src/thrown-obstacles.mjs",
+      "bytes": 1569,
+      "sha256": "f3871d17fdb780447eed3c1a49317ab08c3a58aed8900286c3a043b6441095f2"
+    },
+    {
+      "path": "src/timeline.mjs",
+      "bytes": 456,
+      "sha256": "a01a20ef0a72ac6105aa972b39f9865a4859ab2c8d8192a11639756f82a6a1ef"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 10750,
+      "sha256": "2ba405c9465e81105edbe9bd1415b2d25229363137784f7ae5d1ecf2f55754b2"
+    }
+  ]
+}

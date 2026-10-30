@@ -1,0 +1,20 @@
+export const PRODUCT_MANIFEST={
+  staticArt:['assets/art/menu-concept.webp','assets/art/icon.svg'],
+  audio:'assets/audio/recalculando-doutor-v01.mp3',voice:'assets/audio/dr-certeza-intro-v01.mp3',introMusic:'assets/audio/intro-trilha-v01.mp3',cues:'data/cues.json',
+  data:{rigs:'data/rigs-v03.json',world:'data/world-v03.json',choreography:'data/choreography-v03.json',story:'data/story-v13.json'},
+  images:{
+    'home-workstations-v25':'assets/art/home-workstations-v25.webp',
+    'lab-door-v23':'assets/art/lab-door-v23.webp',
+    'mad-machine-v21':'assets/art/mad-machine-v21.webp',
+    'hero-body-v03':'assets/art/hero-body-v03.webp','hero-arms-v03':'assets/art/hero-arms-v03.webp','hero-legs-v03':'assets/art/hero-legs-v03.webp',
+    'world-parts-v03':'assets/art/world-parts-v03.webp',
+    'garden-parts-v04':'assets/art/garden-parts-v04.webp',
+    'hero-slide-v04':'assets/art/hero-slide-v04.webp',
+    'garden-depth-v04':'assets/art/garden-depth-v04.webp',
+    'hero-run-v05':'assets/art/hero-run-v05.webp','hero-actions-v05':'assets/art/hero-actions-v05.webp',
+    'hero-slide-v05':'assets/art/hero-slide-v05.webp',
+    'lab-certeza-v07':'assets/art/lab-certeza-v07.webp','lab-atomo-v07':'assets/art/lab-atomo-v07.webp','hero-transitions-v07':'assets/art/hero-transitions-v07.webp',
+    'hero-run-v07':'assets/art/hero-run-v07.webp','hero-limbs-v09':'assets/art/hero-limbs-v09.webp',
+    'doctor-body-v03':'assets/art/doctor-body-v03.webp','doctor-face-v03':'assets/art/doctor-face-v03.webp','ship-parts-v03':'assets/art/ship-parts-v03.webp','helpers-parts-v03':'assets/art/helpers-parts-v03.webp'
+  }
+};

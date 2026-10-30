@@ -1,0 +1,1048 @@
+[
+  {
+    "id": "intro",
+    "at": 0,
+    "kind": "intro",
+    "payload": {}
+  },
+  {
+    "id": "intro-calculation-warning",
+    "at": 5.9,
+    "kind": "warning",
+    "payload": {
+      "tool": "calculation",
+      "contactId": "intro-calculation-gate",
+      "text": "✦ SOCO ÁTOMO · QUEBRE A PREVISÃO"
+    }
+  },
+  {
+    "id": "intro-calculation-gate",
+    "at": 7.85,
+    "kind": "gate",
+    "payload": {
+      "requires": "intro-calculation",
+      "appearance": "calculation"
+    }
+  },
+  {
+    "id": "tutorial",
+    "at": 9,
+    "kind": "hint",
+    "payload": {
+      "text": "↑ SALTE · ↓ DESVIE · ✦ SOCO ÁTOMO"
+    }
+  },
+  {
+    "id": "entry-door-warning",
+    "at": 9.1,
+    "kind": "warning",
+    "payload": {
+      "tool": "door",
+      "contactId": "entry-door-gate",
+      "text": "✦ SOCO ÁTOMO · ABRA A PASSAGEM"
+    }
+  },
+  {
+    "id": "entry-door-gate",
+    "at": 10.7,
+    "kind": "gate",
+    "payload": {
+      "requires": "entry-door",
+      "appearance": "door"
+    }
+  },
+  {
+    "id": "entry-sweep-warning",
+    "at": 11.08,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "contactId": "entry-sweep",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "checkpoint-entry",
+    "at": 11.5,
+    "kind": "checkpoint",
+    "payload": {}
+  },
+  {
+    "id": "entry-machine-warning",
+    "at": 12.1,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "entry-machine",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "entry-sweep",
+    "at": 12.43,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "entry-machine",
+    "at": 14.1,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "falling-gears-projector",
+    "at": 14.700000000000001,
+    "kind": "projection",
+    "payload": {
+      "tool": "projector",
+      "contactId": "falling-gears",
+      "fireAt": 15.450000000000001,
+      "text": "PEÇAS CAINDO!"
+    }
+  },
+  {
+    "id": "shine-sentinel-warning",
+    "at": 14.72,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "contactId": "shine-sentinel",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "falling-gears-shield",
+    "at": 15.700000000000001,
+    "kind": "helper",
+    "payload": {
+      "who": "quantico",
+      "form": "shield",
+      "duration": 0.6,
+      "contactId": "falling-gears",
+      "releaseAt": 18
+    }
+  },
+  {
+    "id": "shine-sentinel",
+    "at": 16.22,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "ship",
+    "at": 16.36,
+    "kind": "ship",
+    "payload": {
+      "expression": "confident"
+    }
+  },
+  {
+    "id": "verse-machine-warning",
+    "at": 16.36,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "verse-machine",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "falling-gears",
+    "at": 17.3,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "falling",
+      "debris": "gear",
+      "count": 3
+    }
+  },
+  {
+    "id": "verse-machine",
+    "at": 18.5,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "curve-sentinel-warning",
+    "at": 19.42,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "contactId": "curve-sentinel",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "curve-sentinel",
+    "at": 20.98,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "signal-sentinel-warning",
+    "at": 21.5,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "signal-sentinel",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "wave-warning",
+    "at": 22.56,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "text": "↑ SALTE A MÁQUINA",
+      "contactId": "wave-contact"
+    }
+  },
+  {
+    "id": "signal-sentinel",
+    "at": 23.1,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "beam-warning",
+    "at": 24.06,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "text": "↓ DESVIE DA MÁQUINA",
+      "contactId": "beam-contact"
+    }
+  },
+  {
+    "id": "wave-contact",
+    "at": 25.4,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "beam-contact",
+    "at": 27.1,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "answer-wave-warning",
+    "at": 27.35,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "answer-wave",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "answer-wave",
+    "at": 28.75,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "chorus-door-warning",
+    "at": 28.9,
+    "kind": "warning",
+    "payload": {
+      "tool": "door",
+      "contactId": "chorus-door-gate",
+      "text": "✦ SOCO ÁTOMO · ABRA A PASSAGEM"
+    }
+  },
+  {
+    "id": "chorus-door-gate",
+    "at": 30.4,
+    "kind": "gate",
+    "payload": {
+      "requires": "chorus-door",
+      "appearance": "door"
+    }
+  },
+  {
+    "id": "chorus-sentinel-warning",
+    "at": 30.9,
+    "kind": "warning",
+    "payload": {
+      "tool": "arm",
+      "contactId": "chorus-sentinel",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "checkpoint-1",
+    "at": 31,
+    "kind": "checkpoint",
+    "payload": {}
+  },
+  {
+    "id": "choir-machine-warning",
+    "at": 31.5,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "choir-machine",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "chorus-sentinel",
+    "at": 32.23,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "arm"
+    }
+  },
+  {
+    "id": "falling-panels-projector",
+    "at": 32.75,
+    "kind": "projection",
+    "payload": {
+      "tool": "projector",
+      "contactId": "falling-panels",
+      "fireAt": 33.5,
+      "text": "PEÇAS CAINDO!"
+    }
+  },
+  {
+    "id": "choir-sweep-warning",
+    "at": 33.32,
+    "kind": "warning",
+    "payload": {
+      "tool": "arm",
+      "contactId": "choir-sweep",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "choir-machine",
+    "at": 33.5,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "falling-panels-shield",
+    "at": 33.75,
+    "kind": "helper",
+    "payload": {
+      "who": "quantico",
+      "form": "shield",
+      "duration": 0.6,
+      "contactId": "falling-panels",
+      "releaseAt": 36.050000000000004
+    }
+  },
+  {
+    "id": "choir-high-warning",
+    "at": 34.1,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "contactId": "choir-high",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "choir-sweep",
+    "at": 34.72,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "arm"
+    }
+  },
+  {
+    "id": "falling-panels",
+    "at": 35.35,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "falling",
+      "debris": "panel",
+      "count": 3
+    }
+  },
+  {
+    "id": "choir-high",
+    "at": 36,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "infallible-sentinel-warning",
+    "at": 36.65,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "infallible-sentinel",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "infallible-sentinel",
+    "at": 38.15,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "machine-sweep-warning",
+    "at": 38.25,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "contactId": "machine-sweep",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "lumi-reveal",
+    "at": 38.6,
+    "kind": "helper",
+    "payload": {
+      "who": "lumi",
+      "form": "reveal",
+      "text": "LUMI REVELOU OUTRO CAMINHO"
+    }
+  },
+  {
+    "id": "machine-sweep",
+    "at": 39.65,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "sealed-bulkhead",
+    "at": 39.8,
+    "kind": "helper",
+    "payload": {
+      "who": "laboratory",
+      "form": "sealedBarrier"
+    }
+  },
+  {
+    "id": "quantico-portal",
+    "at": 40.95,
+    "kind": "helper",
+    "payload": {
+      "who": "quantico",
+      "form": "portal",
+      "duration": 0.7
+    }
+  },
+  {
+    "id": "portal",
+    "at": 41.8,
+    "kind": "portal",
+    "payload": {}
+  },
+  {
+    "id": "portal-door-warning",
+    "at": 43.4,
+    "kind": "warning",
+    "payload": {
+      "tool": "door",
+      "contactId": "portal-door-gate",
+      "text": "✦ SOCO ÁTOMO · ABRA A PASSAGEM"
+    }
+  },
+  {
+    "id": "portal-door-gate",
+    "at": 45,
+    "kind": "gate",
+    "payload": {
+      "requires": "portal-door",
+      "appearance": "door"
+    }
+  },
+  {
+    "id": "attention-sentinel-warning",
+    "at": 45.15,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "attention-sentinel",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "arm-warning",
+    "at": 46.2,
+    "kind": "warning",
+    "payload": {
+      "tool": "arm",
+      "text": "↓ DESVIE DA MÁQUINA",
+      "contactId": "arm-contact"
+    }
+  },
+  {
+    "id": "attention-sentinel",
+    "at": 46.65,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "gap-warning",
+    "at": 47.2,
+    "kind": "warning",
+    "payload": {
+      "tool": "gap",
+      "text": "A PONTE VAI ABRIR · SALTE ↑",
+      "contactId": "gap-contact"
+    }
+  },
+  {
+    "id": "arm-contact",
+    "at": 48,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "arm"
+    }
+  },
+  {
+    "id": "prism-warning",
+    "at": 48.9,
+    "kind": "warning",
+    "payload": {
+      "tool": "prism",
+      "text": "ACERTE O PRISMA · SOCO ÁTOMO ✦",
+      "contactId": "prism-gate"
+    }
+  },
+  {
+    "id": "gap-contact",
+    "at": 50.1,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "gap"
+    }
+  },
+  {
+    "id": "prism-gate",
+    "at": 52.4,
+    "kind": "gate",
+    "payload": {
+      "requires": "prism"
+    }
+  },
+  {
+    "id": "quantico-bridge",
+    "at": 54,
+    "kind": "helper",
+    "payload": {
+      "who": "quantico",
+      "form": "bridge",
+      "text": "QUÂNTICO FEZ UMA PONTE · SALTE PARA ALCANÇAR ↑",
+      "duration": 0.55
+    }
+  },
+  {
+    "id": "bridge-sentinel-warning",
+    "at": 56.57,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "bridge-sentinel",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "bridge-sentinel",
+    "at": 58.27,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "bridge-return-sweep-warning",
+    "at": 58.35,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "contactId": "bridge-return-sweep",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "nucleus-door-warning",
+    "at": 59.7,
+    "kind": "warning",
+    "payload": {
+      "tool": "door",
+      "contactId": "nucleus-door-gate",
+      "text": "✦ SOCO ÁTOMO · ABRA A PASSAGEM"
+    }
+  },
+  {
+    "id": "bridge-return-sweep",
+    "at": 59.75,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "checkpoint-2",
+    "at": 60,
+    "kind": "checkpoint",
+    "payload": {}
+  },
+  {
+    "id": "nucleus-door-gate",
+    "at": 61.2,
+    "kind": "gate",
+    "payload": {
+      "requires": "nucleus-door",
+      "appearance": "door"
+    }
+  },
+  {
+    "id": "nucleus-sweep-warning",
+    "at": 61.65,
+    "kind": "warning",
+    "payload": {
+      "tool": "arm",
+      "contactId": "nucleus-sweep",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "recalculate",
+    "at": 62,
+    "kind": "ship",
+    "payload": {
+      "expression": "flustered"
+    }
+  },
+  {
+    "id": "echo-wave-warning",
+    "at": 62.5,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "echo-wave",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "nucleus-sweep",
+    "at": 63.05,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "arm"
+    }
+  },
+  {
+    "id": "echo-wave",
+    "at": 64.84,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "falling-coils-projector",
+    "at": 64.9,
+    "kind": "projection",
+    "payload": {
+      "tool": "projector",
+      "contactId": "falling-coils",
+      "fireAt": 65.65,
+      "text": "PEÇAS CAINDO!"
+    }
+  },
+  {
+    "id": "recalculate-sentinel-warning",
+    "at": 64.99,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "contactId": "recalculate-sentinel",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "falling-coils-shield",
+    "at": 65.9,
+    "kind": "helper",
+    "payload": {
+      "who": "quantico",
+      "form": "shield",
+      "duration": 0.6,
+      "contactId": "falling-coils",
+      "releaseAt": 68.2
+    }
+  },
+  {
+    "id": "second-wave-warning",
+    "at": 66.5,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "text": "↑ SALTE A MÁQUINA",
+      "contactId": "second-wave"
+    }
+  },
+  {
+    "id": "recalculate-sentinel",
+    "at": 66.53,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "falling-coils",
+    "at": 67.5,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "falling",
+      "debris": "coil",
+      "count": 3
+    }
+  },
+  {
+    "id": "second-wave",
+    "at": 68.5,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "second-curve-sentinel-warning",
+    "at": 68.72,
+    "kind": "warning",
+    "payload": {
+      "tool": "arm",
+      "contactId": "second-curve-sentinel",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "second-beam-warning",
+    "at": 70,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "text": "↓ DESVIE DA MÁQUINA",
+      "contactId": "second-beam"
+    }
+  },
+  {
+    "id": "second-curve-sentinel",
+    "at": 70.25,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "arm"
+    }
+  },
+  {
+    "id": "second-beam",
+    "at": 72,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "echo-prism-warning",
+    "at": 72.25,
+    "kind": "warning",
+    "payload": {
+      "tool": "prism",
+      "contactId": "echo-prism-gate",
+      "text": "DESLIGUE O EMISSOR · SOCO ÁTOMO ✦"
+    }
+  },
+  {
+    "id": "echo-prism-gate",
+    "at": 73.42,
+    "kind": "gate",
+    "payload": {
+      "requires": "echo-prism"
+    }
+  },
+  {
+    "id": "shield-approach-sentinel-warning",
+    "at": 73.85,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "shield-approach-sentinel",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "laser-barrage",
+    "at": 75.4,
+    "kind": "projection",
+    "payload": {
+      "tool": "projector",
+      "contactId": "falling-piece",
+      "fireAt": 76.15,
+      "text": "PROJETOR DA NAVE CARREGANDO"
+    }
+  },
+  {
+    "id": "shield-approach-sentinel",
+    "at": 75.4,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "shield-sweep-warning",
+    "at": 75.75,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "contactId": "shield-sweep",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "shield-warning",
+    "at": 76,
+    "kind": "helper",
+    "payload": {
+      "who": "quantico",
+      "form": "shield",
+      "text": "QUÂNTICO VAI PROTEGER VOCÊ",
+      "duration": 0.6
+    }
+  },
+  {
+    "id": "shield-sweep",
+    "at": 77.15,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "falling-piece",
+    "at": 78,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "falling"
+    }
+  },
+  {
+    "id": "exit-door-warning",
+    "at": 78.8,
+    "kind": "warning",
+    "payload": {
+      "tool": "door",
+      "contactId": "exit-door-gate",
+      "text": "✦ SOCO ÁTOMO · ABRA A PASSAGEM"
+    }
+  },
+  {
+    "id": "exit-door-gate",
+    "at": 80.4,
+    "kind": "gate",
+    "payload": {
+      "requires": "exit-door",
+      "appearance": "door"
+    }
+  },
+  {
+    "id": "exit-sweep-warning",
+    "at": 80.57,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "contactId": "exit-sweep",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "exit",
+    "at": 81.1,
+    "kind": "exit",
+    "payload": {
+      "text": "LUMI ENCONTROU A SAÍDA!"
+    }
+  },
+  {
+    "id": "checkpoint-exit",
+    "at": 81.1,
+    "kind": "checkpoint",
+    "payload": {}
+  },
+  {
+    "id": "exit-sweep",
+    "at": 81.97,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "possibility-sentinel-warning",
+    "at": 82.06,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "possibility-sentinel",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "possibility-sentinel",
+    "at": 83.65,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "hero-line",
+    "at": 83.94,
+    "kind": "hint",
+    "payload": {
+      "text": "E SE EXISTIR OUTRA POSSIBILIDADE?"
+    }
+  },
+  {
+    "id": "last-choice-sentinel-warning",
+    "at": 84.05,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "last-choice-sentinel",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "last-choice-sentinel",
+    "at": 85.55,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "final-sentinel-warning",
+    "at": 85.66,
+    "kind": "warning",
+    "payload": {
+      "tool": "beam",
+      "contactId": "final-sentinel",
+      "text": "↓ DESVIE DA MÁQUINA"
+    }
+  },
+  {
+    "id": "last-wave-warning",
+    "at": 87.45,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "last-wave",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "final-sentinel",
+    "at": 87.48,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "beam"
+    }
+  },
+  {
+    "id": "last-wave",
+    "at": 88.85,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "escape-wave-warning",
+    "at": 89.2,
+    "kind": "warning",
+    "payload": {
+      "tool": "wave",
+      "contactId": "escape-wave",
+      "text": "↑ SALTE A MÁQUINA"
+    }
+  },
+  {
+    "id": "escape-wave",
+    "at": 90.6,
+    "kind": "contact",
+    "payload": {
+      "obstacle": "wave"
+    }
+  },
+  {
+    "id": "escape-door-warning",
+    "at": 91.1,
+    "kind": "warning",
+    "payload": {
+      "tool": "door",
+      "contactId": "escape-door-gate",
+      "text": "✦ SOCO ÁTOMO · ABRA A PASSAGEM"
+    }
+  },
+  {
+    "id": "escape-door-gate",
+    "at": 92.7,
+    "kind": "gate",
+    "payload": {
+      "requires": "escape-door",
+      "appearance": "door"
+    }
+  },
+  {
+    "id": "victory",
+    "at": 93.8,
+    "kind": "victory",
+    "payload": {}
+  },
+  {
+    "id": "choir",
+    "at": 95,
+    "kind": "hint",
+    "payload": {
+      "text": "RECALCULANDO, DOUTOR!"
+    }
+  },
+  {
+    "id": "end",
+    "at": 103.2,
+    "kind": "end",
+    "payload": {}
+  }
+]
